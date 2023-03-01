@@ -1,0 +1,80 @@
+	.hidden
+	{
+		display: none;
+	}
+	.show
+	{
+		display: block;
+	}
+body{
+	background: url("bg2.jpg");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	min-height: 100vh;
+	max-height: 100vh;
+}
+
+.contain_form {
+	border-radius: 11px;
+	/*background-color: #f2f2f2;*/
+	background: url("bg2.jpg");
+	background-position: center;
+	padding: 20px 50px;
+	text-align: center;
+	margin-top: 100px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+/*admin php file*/
+.admin_tick{
+	border-radius: 11px;
+	/*background-color: #f2f2f2;*/
+	background: url("bg2.jpg");
+	background-position: center;
+	padding: 20px 50px;
+	text-align: center;
+	margin-top: 30px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.approve_activities{
+	border-radius: 11px;
+	/*background-color: #f2f2f2;*/
+	background: url("bg2.jpg");
+	background-position: center;
+	padding: 20px 50px;
+	text-align: center;
+	margin-top: 30px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.add_club_coordinator {
+	border-radius: 11px;
+	/*background-color: #f2f2f2;*/
+	background: url("bg2.jpg");
+	background-position: left;
+	padding: 20px 50px;
+	text-align: center;
+	margin-top: 10px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.contain_login_form {
+	border-radius: 11px;
+	/*background-color: #f2f2f2;*/
+	background: url("bg2.jpg");
+	background-position: center;
+	padding: 20px 50px;
+	text-align: center;
+	margin-top: 200px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+#login_button{
+	background-color: dimgrey;
+}
+
+.radio_selection{
+	text-decoration: none;
+    text-align: left;
+    padding: 0px 5px;
+}
